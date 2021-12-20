@@ -1,1 +1,2 @@
-# cryptocurrencies
+# Cryptocurrencies
+This analysis sought to use unsupervised machine learning algorithms in order to assign various cryptocurrencies into different clusters. By reducing the data with principal component analysis and applying a K-means algorithm, I determined that the cryptocurrencies can be separated into four different clusters.
